@@ -8,11 +8,9 @@
 
 ### Содержание
 
- 1. git config
- 1. git init
- 1. [git add](/add.md)
- 1. git commit
- 1. git clone
+ 1. [Настройка Git](/Config.md)
+ 1. [Создание Git-репозитория](/Init.md)
+ 1. [Клонирование существующего репозитория](/Сlone.md)
  1. git remode add
  1. git fetch, git merge и git pull
  1. git status
