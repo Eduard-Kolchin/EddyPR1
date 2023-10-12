@@ -11,15 +11,12 @@
  1. [Настройка Git](/Config.md)
  1. [Создание Git-репозитория](/Init.md)
  1. [Клонирование существующего репозитория](/Сlone.md)
- 1. git remode add
- 1. git fetch, git merge и git pull
- 1. git status
- 1. git log
- 1. git show
- 1. git branch
- 1. git checkout
- 1. git merge
- 1. git rebase
+ 1. [Работа с удалённым репозиторием](/RemodeAdd.md)
+ 1. [Получение данных о состоянии репозитория](/Status.md)
+ 1. [Создание ветки и переключение на ветку](/Branch.md)
+ 1. [Объединение ветвей](/Merge.md)
+ 1. [Как получить помощь?](/Help.md)
+ 1. [Больше о Git](/ProGit.md)
 
 ---
 
