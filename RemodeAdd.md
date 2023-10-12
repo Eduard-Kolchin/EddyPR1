@@ -11,3 +11,5 @@ git remote add project1 https://github.com/slepakov315/example
 `git pull` - является объединением двух последовательных команд git fetch и git merge.
 
 `git push` - производит отправку ваших изменений в репозиторий. 
+---
+[*В содержание →*](/readme.md)

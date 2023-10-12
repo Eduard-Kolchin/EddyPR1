@@ -33,3 +33,5 @@ usage: git add [<options>] [--] <pathspec>...
 --ignore-missing check if - even missing - files are ignored in dry run
 --chmod (+|-)x override the executable bit of the listed files
 ```
+---
+[*В содержание →*](/readme.md)

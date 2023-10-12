@@ -20,3 +20,5 @@ git commit -m 'Initial project version'
 ```
 git rm --cached README
 ```
+---
+[*В содержание →*](/readme.md)
